@@ -167,9 +167,13 @@ END
 
 ## 📚 참고 자료
 
+### 참고 링크
 - [산림청 2024 전국 산불방지 종합대책](http://kffmsa.kr/admin/admin_board_01/data/2024%EB%85%84%EB%8F%84_%EC%A0%84%EA%B5%AD_%EC%82%B0%EB%B6%88%EB%B0%A9%EC%A7%80_%EC%A2%85%ED%95%A9%EB%8C%80%EC%B1%85.pdf)
 - [국가기록원 산불경보제 운영기준](https://www.archives.go.kr/next/newsearch/listSubjectDescription.do?id=001844&sitePage=1-2-1)
 - [산불 대응 기관 역할 구조 설명](https://lllucysnut.tistory.com/entry/산불-대응-기관의-역할산림청과-소방청의-역할과-협력)
+
+### 참고 이미지
+![image](https://github.com/user-attachments/assets/d07009d1-c239-4eb3-9f86-a9aee28d5161)
 
 ---
 
